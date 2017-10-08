@@ -1,0 +1,26 @@
+.form-group {
+	display: inline-block;
+	width: calc(100% - 120px);
+}
+
+.inner-addon {
+	position: relative;
+}
+
+.inner-addon .glyphicon {
+	position: absolute;
+	padding: 10px;
+	pointer-events: none;
+}
+
+.right-addon .glyphicon {
+	right: 0px;
+}
+
+.right-addon input {
+	padding-right: 30px;
+}
+
+img {
+	width: 120px;
+}

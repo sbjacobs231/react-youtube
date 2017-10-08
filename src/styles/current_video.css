@@ -1,0 +1,5 @@
+.tupper {
+	width: calc(100% - 400px);
+	float: left;
+	padding-right: 20px;
+}

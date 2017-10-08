@@ -1,0 +1,28 @@
+.video-container {
+	padding-bottom: 15px;
+}
+
+.video-container img {
+	width: 180px;
+	vertical-align: top;
+}
+
+.video-details {
+	display: inline-block;
+	width: 210px;
+	padding-left: 10px;
+	vertical-align: top;
+}
+
+.video-details h5 {
+	margin-top: 0;
+}
+
+.video-details *,
+img {
+	cursor: pointer;
+}
+
+.video-details *:hover {
+	text-decoration: underline;
+}
